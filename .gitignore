@@ -7,3 +7,6 @@ site/
 docs/node_modules/
 docs/.vitepress/dist/
 docs/.vitepress/cache/
+
+# Session findings & task board — local scratch knowledge base, not shipped source
+data/
